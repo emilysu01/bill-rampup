@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bill-rampup/static/css/main.073c9b0a.css",
+    "main.js": "/bill-rampup/static/js/main.22dbf802.js",
+    "static/js/787.e5bb8acf.chunk.js": "/bill-rampup/static/js/787.e5bb8acf.chunk.js",
+    "static/media/logo.svg": "/bill-rampup/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bill-rampup/index.html",
+    "main.073c9b0a.css.map": "/bill-rampup/static/css/main.073c9b0a.css.map",
+    "main.22dbf802.js.map": "/bill-rampup/static/js/main.22dbf802.js.map",
+    "787.e5bb8acf.chunk.js.map": "/bill-rampup/static/js/787.e5bb8acf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.22dbf802.js"
+  ]
+}
